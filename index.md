@@ -18,7 +18,7 @@ The order I learned them in:
 
 ## External links
 My favorite notebook is [Google Colab](https://colab.research.google.com/).
-![alt text](Screenshot%202025-09-25%20at%202.38.21%20PM.png)
+![my class schedule](Screenshot 2025-09-25 at 2.38.21 PM.png)
 - [x] Make 2 branches
 - [x] finish this lab
 
