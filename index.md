@@ -5,7 +5,7 @@ My favorite git command is:
 ```
 git push
 ```
-[The read me](README.md)
+[The read me](README)
 Languages I know somewhat:
 - Python
 * C
