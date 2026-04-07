@@ -5,7 +5,6 @@ My favorite git command is:
 ```
 git push
 ```
-[The read me](README)
 Languages I know somewhat:
 - Python
 * C
@@ -21,3 +20,4 @@ My favorite notebook is [Google Colab](https://colab.research.google.com/).
 ![alt text](Screenshot%202025-09-25%20at%202.38.21%20PM.png)
 - [x] Make 2 branches
 - [x] finish this lab
+[The read me](README.md)
