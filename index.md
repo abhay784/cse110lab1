@@ -15,6 +15,7 @@ The order I learned them in:
      - C
 
 
+
 ## External links
 My favorite notebook is [Google Colab](https://colab.research.google.com/).
 ![alt text](Screenshot%202025-09-25%20at%202.38.21%20PM.png)
